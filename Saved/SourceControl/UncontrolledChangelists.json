@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/StarterContent/Maps/Minimal_Default.umap",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/BP_Gamemode.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/BP_Player.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/BP_PlayerController.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/1622793658-eye-01-mask.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/684c0f35-ba0b-48e0-ab19-db572ea748d3.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/684c0f35-ba0b-48e0-ab19-db572ea748d3_PhysicsAsset.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/684c0f35-ba0b-48e0-ab19-db572ea748d3_Skeleton.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/body_texture.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/face_texture.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/hair-23-N.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/hair_color.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/outfit-classic-04-v2-m-bottom-D.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/outfit-classic-04-v2-m-bottom-M-outfit-classic-04-v2-m-bottom-R.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/outfit-classic-04-v2-m-bottom-N.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/outfit-classic-04-v2-m-footwear-D.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/outfit-classic-04-v2-m-footwear-M-outfit-classic-04-v2-m-footwear-R.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/outfit-classic-04-v2-m-footwear-N.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/outfit-classic-04-v2-m-top-D.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/outfit-classic-04-v2-m-top-M-outfit-classic-04-v2-m-top-R.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/outfit-classic-04-v2-m-top-N.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Body.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Eye.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Glasses.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Hair.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Male_Athletic_nm.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Outfit_Bottom.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Outfit_Footwear.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Outfit_Top.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Skin.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Teeth.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Teeth1.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/684c0f35-ba0b-48e0-ab19-db572ea748d3_CtrlRig.uasset"
+			]
+		}
+	]
+}
