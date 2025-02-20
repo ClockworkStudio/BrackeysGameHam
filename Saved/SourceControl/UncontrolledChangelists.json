@@ -39,7 +39,13 @@
 				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Teeth.uasset",
 				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/Wolf3D_Teeth1.uasset",
 				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Blueprints/Player/Model/684c0f35-ba0b-48e0-ab19-db572ea748d3_CtrlRig.uasset",
-				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/684c0f35-ba0b-48e0-ab19-db572ea748d3_CtrlRig_Take1.uasset"
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/684c0f35-ba0b-48e0-ab19-db572ea748d3_CtrlRig_Take1.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Animations/walkglb.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Animations/Idle.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Animations/walk.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Animations/WalkingBlendSpace.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Animations/BlendWalking.uasset",
+				"/home/sials/Documents/Unreal Projects/NothingCanGoWrong/Content/Animations/GuyAnimBP.uasset"
 			]
 		}
 	]
